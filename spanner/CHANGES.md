@@ -1,5 +1,13 @@
 # Changes
 
+## [1.24.0](https://www.github.com/googleapis/google-cloud-go/compare/spanner/v1.23.0...spanner/v1.24.0) (2021-07-15)
+
+
+### Features
+
+* **spanner/spansql:** support ALTER DATABASE ([#4403](https://www.github.com/googleapis/google-cloud-go/issues/4403)) ([1458dc9](https://www.github.com/googleapis/google-cloud-go/commit/1458dc9c21d98ffffb871943f178678cc3c21306))
+* **spanner:** add row.String() and refine error message for decoding a struct array ([#4431](https://www.github.com/googleapis/google-cloud-go/issues/4431)) ([f6258a4](https://www.github.com/googleapis/google-cloud-go/commit/f6258a47a4dfadc02dcdd75b53fd5f88c5dcca30))
+
 ## [1.23.0](https://www.github.com/googleapis/google-cloud-go/compare/spanner/v1.22.0...spanner/v1.23.0) (2021-07-08)
 
 
